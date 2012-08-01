@@ -1,0 +1,34 @@
+Candy Clouds 1.2
+Tushar Kant Sahay
+nanu.clickity@gmail.com
+
+facebook.com/nanuclickity
+twitter.com/nanu_clickity
+http://geekli.st/nanu_clickity
+
+Buy My Beers
+PayPal Email - nanu.clickity@gmail.com
+
+
+23 Mar 2012
+6:46 PM IST
+
+
+
+
+Candy Clouds is my Original Work and I Reserve The Copyrights to This Work.
+If You Wish to Modify and Resell For Your Own Purposes... Contact Me First!
+I Will See if it's negotiable.
+
+This is a Single License Use.
+
+If You like my work... please donate some help to keep me supporting myself through college and bring awesome apps to public. :)
+
+
+Used Resources ---
+1. jQuery FrameWork
+	http://jquery.com/
+2. Bootstrap Framework by Twitter.
+	http://twitter.github.com/bootstrap
+3. MetroDynamis Social Icons
+	https://metrodynamis.com/resource/icons-metro-style-social-icon-collection/
